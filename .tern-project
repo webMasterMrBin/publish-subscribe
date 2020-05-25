@@ -1,0 +1,16 @@
+{
+  "ecmaVersion": 8,
+  "libs": ["browser"],
+  "loadEagerly": [],
+  "plugins": {
+    "doc_comment": true,
+    "es_modules": {
+
+    },
+    "modules": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    }
+  }
+}
